@@ -1,6 +1,4 @@
 # PetAgeMatch
-A page designed to provide the exact date when yours and your pets age align.
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
